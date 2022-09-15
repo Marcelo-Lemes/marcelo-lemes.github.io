@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+    background-color: blueviolet;
+    height: 60px;
+    
+}
+
+
+#menu{
+    list-style: none;
+    display: inline-flex;
+    
+}
+
+.menu-list{
+    padding-left: 10vw;
+    padding-top: 5px;
+}
+
+#container{
+
+}
+
+#foto{
+    width: 250px;
+    margin: 10px;
+    border-radius: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
